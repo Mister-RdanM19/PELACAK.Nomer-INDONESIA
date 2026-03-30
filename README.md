@@ -7,12 +7,8 @@
 
 ## 🚀 FITUR UTAMA
 
-* **Intersepsi Real-Time**: Simulasi pemindaian sinyal BTS dan penetrasi protokol jaringan.
 * **Database Wilayah Luas**: Mencakup area DKI Jakarta, Kota Bogor, Kabupaten Bogor, Bandung Raya, dan Tangerang. dan seluruh wilayah indonesia
-* **Kunci Lokasi Permanen**: Sistem cerdas yang mengunci koordinat spesifik untuk setiap nomor unik agar hasil tetap konsisten.
 * **Identitas Operator Otomatis**: Mendeteksi penyedia layanan seluler Indonesia (Telkomsel, Indosat, XL, Tri) secara otomatis melalui awalan nomor.
-* **Monitoring Status Perangkat**: Menampilkan simulasi persentase baterai, kekuatan sinyal, dan waktu aktif perangkat target.
-* **UI Konsol Profesional**: Dilengkapi dengan efek animasi Matrix dan log teks bergaya mesin tik untuk pengalaman investigasi yang nyata.
 
 ---
 
